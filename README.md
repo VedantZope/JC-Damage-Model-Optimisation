@@ -34,7 +34,7 @@ The project is structured as follows:
 ## Run the code
 To run the code, simply clone the repository and run the command below in the terminal: 
 ```bash
-python main.py
+python optimise.py
 ```
 The code will automatically read the configurations and start the optimization process. The results will be saved in the "results" folder.
 
